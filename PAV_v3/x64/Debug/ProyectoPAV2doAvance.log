@@ -1,0 +1,33 @@
+﻿  Source.cpp
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(91,7): warning C4101: 'aux': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(107,6): warning C4101: 'idaux': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(140,7): warning C4101: 'aux': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(254,7): warning C4101: 'aux': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(355,7): warning C4101: 'aux': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(415,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(419,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(789,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(803,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1078,9): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1128,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1143,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1389,9): warning C4101: 'auxtel': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1511,21): warning C4101: 'valid': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1613,9): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1661,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1671,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1775,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1782,30): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1806,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1807,41): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1743,22): warning C4101: 'auxiliar': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1844,9): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1866,58): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1891,62): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1892,58): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(1985,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(2040,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(2074,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(2095,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\giova\Desktop\PAV_v3\Source.cpp(2125,7): warning C4101: 'buffer': unreferenced local variable
+  ProyectoPAV2doAvance.vcxproj -> C:\Users\giova\Desktop\PAV_v3\x64\Debug\ProyectoPAV2doAvance.exe
